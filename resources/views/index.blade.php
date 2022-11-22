@@ -13,7 +13,7 @@
                                   <h6>{{$image_banner->header}}</h6>
                                   <h2>{{$image_banner->title}}</h2>
                                   <p>{{$image_banner->content}}</p>
-{{--                                  <a  href="{{route('shop')}}" class="primary-btn">Mua ngay</a>--}}
+                                  <a  href="{{route('shop')}}" class="primary-btn">Mua ngay</a>
                                   <div class="hero__social">
                                       <a href="#"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
                                       <a href="#"><i class="fa fa-twitter"></i></a>
